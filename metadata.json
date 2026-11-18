@@ -1,0 +1,6 @@
+{
+  "name": "PlotLedger — Real Estate Plot Mapping",
+  "description": "Map-first real estate plot discovery, parcel boundary visualization, and multi-dealer buy-sell management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
